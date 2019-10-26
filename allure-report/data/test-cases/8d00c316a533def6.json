@@ -1,0 +1,131 @@
+{
+  "uid" : "8d00c316a533def6",
+  "name" : "Then User should view all the main categories",
+  "fullName" : "Verify the presence of Menus and corresponding sub-Menus in the home page: .Then User should view all the main categories",
+  "historyId" : "5fc4b493e67103c51e6a2f926b7db14c",
+  "time" : {
+    "start" : 1572072069519,
+    "stop" : 1572072069862,
+    "duration" : 343
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the presence of Menus and corresponding sub-Menus in the home page: "
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the presence of Menus and corresponding sub-Menus in the home page: "
+  }, {
+    "name" : "testMethod",
+    "value" : "Then User should view all the main categories"
+  }, {
+    "name" : "package",
+    "value" : "Verify the presence of Menus and corresponding sub-Menus in the home page: "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "31dc522015d2b81a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1572072007770,
+        "stop" : 1572072008117,
+        "duration" : 347
+      }
+    }, {
+      "uid" : "5e1667457afaf7e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571408015154,
+        "stop" : 1571408015820,
+        "duration" : 666
+      }
+    }, {
+      "uid" : "150f39545e16bd1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571405688749,
+        "stop" : 1571405688805,
+        "duration" : 56
+      }
+    }, {
+      "uid" : "edf6076cd9a823c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571405404555,
+        "stop" : 1571405404566,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "2f9d407bbff3834a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571404873014,
+        "stop" : 1571404873029,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "5e7ca25d937741f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571404810599,
+        "stop" : 1571404810618,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "6ee4c04b6dabff2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571404652111,
+        "stop" : 1571404652123,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "495cdcb340227e5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571404610932,
+        "stop" : 1571404610945,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "b047c15c4cf2851b",
+      "status" : "broken",
+      "statusDetails" : "mainCategoryList[i].then is not a function",
+      "time" : {
+        "start" : 1571404426641,
+        "stop" : 1571404426986,
+        "duration" : 345
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8d00c316a533def6.json",
+  "parameterValues" : [ "chrome" ]
+}

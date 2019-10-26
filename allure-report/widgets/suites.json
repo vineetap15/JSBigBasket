@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "d2094b68f9d63695b6cc8845708ca775",
+    "name" : "Verify the payment success: ",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 1,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "01c1a855308f8cabbc0d032ae2cac471",
+    "name" : "Verify the presence of Menus and corresponding sub-Menus in the home page: ",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

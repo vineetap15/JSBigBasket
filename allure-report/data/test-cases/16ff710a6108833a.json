@@ -1,0 +1,58 @@
+{
+  "uid" : "16ff710a6108833a",
+  "name" : "Then user should be able to complete the payment",
+  "fullName" : "Verify the payment success: .Then user should be able to complete the payment",
+  "historyId" : "2e04a5fe06856889bc43c7b897e9c20f",
+  "time" : {
+    "start" : 1571419830536,
+    "stop" : 1571419830594,
+    "duration" : 58
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "myBasket is not defined",
+  "statusTrace" : "ReferenceError: myBasket is not defined\n                    at World.<anonymous> (/home/vinita/Documents/Automation/jsbigbasket/features/steps/ValidatePayments.js:59:5)\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)\n                    at async World.testFrameworkFnWrapper (/home/vinita/Documents/Automation/jsbigbasket/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:59:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the payment success: "
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the payment success: "
+  }, {
+    "name" : "testMethod",
+    "value" : "Then user should be able to complete the payment"
+  }, {
+    "name" : "package",
+    "value" : "Verify the payment success: "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16ff710a6108833a.json",
+  "parameterValues" : [ "chrome" ]
+}

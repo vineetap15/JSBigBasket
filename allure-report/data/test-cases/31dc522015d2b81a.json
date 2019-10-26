@@ -1,0 +1,56 @@
+{
+  "uid" : "31dc522015d2b81a",
+  "name" : "Then User should view all the main categories",
+  "fullName" : "Verify the presence of Menus and corresponding sub-Menus in the home page: .Then User should view all the main categories",
+  "historyId" : "5fc4b493e67103c51e6a2f926b7db14c",
+  "time" : {
+    "start" : 1572072007770,
+    "stop" : 1572072008117,
+    "duration" : 347
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the presence of Menus and corresponding sub-Menus in the home page: "
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the presence of Menus and corresponding sub-Menus in the home page: "
+  }, {
+    "name" : "testMethod",
+    "value" : "Then User should view all the main categories"
+  }, {
+    "name" : "package",
+    "value" : "Verify the presence of Menus and corresponding sub-Menus in the home page: "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "31dc522015d2b81a.json",
+  "parameterValues" : [ "chrome" ]
+}

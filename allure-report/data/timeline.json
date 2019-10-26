@@ -1,0 +1,507 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "0-1",
+    "children" : [ {
+      "name" : "Given User selects a category",
+      "uid" : "8f23188c1c033da4",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571419568277,
+        "stop" : 1571419575296,
+        "duration" : 7019
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When User adds  the product in his basket",
+      "uid" : "2b22202dcee1a9cd",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571408306092,
+        "stop" : 1571408324979,
+        "duration" : 18887
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given User selects a category",
+      "uid" : "b09a4279d4c02ec4",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571419803103,
+        "stop" : 1571419812244,
+        "duration" : 9141
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When User adds  the product in his basket",
+      "uid" : "2e9e1269ebe96f8",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571419812245,
+        "stop" : 1571419830534,
+        "duration" : 18289
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should be able to complete the payment",
+      "uid" : "3433aa5afdbb5827",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571408324979,
+        "stop" : 1571408325102,
+        "duration" : 123
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When User adds  the product in his basket",
+      "uid" : "b3534c87bab3de94",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571419575298,
+        "stop" : 1571419594442,
+        "duration" : 19144
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should be able to complete the payment",
+      "uid" : "a2fa62044d030e02",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1571420004139,
+        "stop" : 1571420004142,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given User selects a category",
+      "uid" : "a7ff4438279a91dc",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571419970931,
+        "stop" : 1571419977756,
+        "duration" : 6825
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When User adds  the product in his basket",
+      "uid" : "75feaafdff34b176",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1571419977756,
+        "stop" : 1571420004138,
+        "duration" : 26382
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given User selects a category",
+      "uid" : "e12dee5923ae8f13",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571396534706,
+        "stop" : 1571396543107,
+        "duration" : 8401
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should be able to complete the payment",
+      "uid" : "3dc6b0757142",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1571396571329,
+        "stop" : 1571396571331,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given User selects a category",
+      "uid" : "5008c42bfd987acd",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571408299351,
+        "stop" : 1571408306092,
+        "duration" : 6741
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should be able to complete the payment",
+      "uid" : "7485d19b5c0d9552",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1571419594442,
+        "stop" : 1571419594560,
+        "duration" : 118
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should be able to complete the payment",
+      "uid" : "16ff710a6108833a",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1571419830536,
+        "stop" : 1571419830594,
+        "duration" : 58
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should be able to complete the payment",
+      "uid" : "4e2775ad882f9048",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1571419954817,
+        "stop" : 1571419954818,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When User adds  the product in his basket",
+      "uid" : "db60ec843e5afbd0",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1571419916258,
+        "stop" : 1571419954817,
+        "duration" : 38559
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given User selects a category",
+      "uid" : "fe720c3b02fe9daf",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571419909488,
+        "stop" : 1571419916258,
+        "duration" : 6770
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When User adds  the product in his basket",
+      "uid" : "4fcd8ca12d0edfc9",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1571396543107,
+        "stop" : 1571396571328,
+        "duration" : 28221
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "27fa874cadc1574e37a07abb440963bd"
+  }, {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Then User should view all the main categories",
+      "uid" : "2f9d407bbff3834a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571404873014,
+        "stop" : 1571404873029,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When User clicks on shop option",
+      "uid" : "b8e9d0e0f61d33c5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571404802211,
+        "stop" : 1571404810598,
+        "duration" : 8387
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When User clicks on shop option",
+      "uid" : "ab12cdd459838dea",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571404644707,
+        "stop" : 1571404652111,
+        "duration" : 7404
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then User should view all the main categories",
+      "uid" : "6ee4c04b6dabff2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571404652111,
+        "stop" : 1571404652123,
+        "duration" : 12
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When User clicks on shop option",
+      "uid" : "c9b58d10e62f91c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571404598729,
+        "stop" : 1571404610931,
+        "duration" : 12202
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When User clicks on shop option",
+      "uid" : "6e4c4f11978d924a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571405396287,
+        "stop" : 1571405404555,
+        "duration" : 8268
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When User clicks on shop option",
+      "uid" : "4f4b6b0b259ad94a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1572072059163,
+        "stop" : 1572072069518,
+        "duration" : 10355
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then User should view all the main categories",
+      "uid" : "8d00c316a533def6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1572072069519,
+        "stop" : 1572072069862,
+        "duration" : 343
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then User should view all the main categories",
+      "uid" : "edf6076cd9a823c1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571405404555,
+        "stop" : 1571405404566,
+        "duration" : 11
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then User should view all the main categories",
+      "uid" : "495cdcb340227e5b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571404610932,
+        "stop" : 1571404610945,
+        "duration" : 13
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When User clicks on shop option",
+      "uid" : "43744f48fa761987",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571404416382,
+        "stop" : 1571404426640,
+        "duration" : 10258
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When User clicks on shop option",
+      "uid" : "4336264feadc59a1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571404863666,
+        "stop" : 1571404873012,
+        "duration" : 9346
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then User should view all the main categories",
+      "uid" : "5e7ca25d937741f7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571404810599,
+        "stop" : 1571404810618,
+        "duration" : 19
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When User clicks on shop option",
+      "uid" : "490437d06467d445",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1572071997223,
+        "stop" : 1572072007769,
+        "duration" : 10546
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then User should view all the main categories",
+      "uid" : "31dc522015d2b81a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1572072007770,
+        "stop" : 1572072008117,
+        "duration" : 347
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When User clicks on shop option",
+      "uid" : "b8c1b42e274adeb2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571408006346,
+        "stop" : 1571408015154,
+        "duration" : 8808
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then User should view all the main categories",
+      "uid" : "5e1667457afaf7e3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571408015154,
+        "stop" : 1571408015820,
+        "duration" : 666
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then User should view all the main categories",
+      "uid" : "b047c15c4cf2851b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1571404426641,
+        "stop" : 1571404426986,
+        "duration" : 345
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When User clicks on shop option",
+      "uid" : "a5060421f1e1cb22",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571405680472,
+        "stop" : 1571405688749,
+        "duration" : 8277
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then User should view all the main categories",
+      "uid" : "150f39545e16bd1a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571405688749,
+        "stop" : 1571405688805,
+        "duration" : 56
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ],
+  "name" : "timeline"
+}

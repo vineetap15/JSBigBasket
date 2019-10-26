@@ -1,0 +1,100 @@
+{
+  "uid" : "a2fa62044d030e02",
+  "name" : "Then user should be able to complete the payment",
+  "fullName" : "Verify the payment success: .Then user should be able to complete the payment",
+  "historyId" : "2e04a5fe06856889bc43c7b897e9c20f",
+  "time" : {
+    "start" : 1571420004139,
+    "stop" : 1571420004142,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the payment success: "
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the payment success: "
+  }, {
+    "name" : "testMethod",
+    "value" : "Then user should be able to complete the payment"
+  }, {
+    "name" : "package",
+    "value" : "Verify the payment success: "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4e2775ad882f9048",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1571419954817,
+        "stop" : 1571419954818,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "16ff710a6108833a",
+      "status" : "broken",
+      "statusDetails" : "myBasket is not defined",
+      "time" : {
+        "start" : 1571419830536,
+        "stop" : 1571419830594,
+        "duration" : 58
+      }
+    }, {
+      "uid" : "7485d19b5c0d9552",
+      "status" : "broken",
+      "statusDetails" : "myBasket is not defined",
+      "time" : {
+        "start" : 1571419594442,
+        "stop" : 1571419594560,
+        "duration" : 118
+      }
+    }, {
+      "uid" : "3433aa5afdbb5827",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571408324979,
+        "stop" : 1571408325102,
+        "duration" : 123
+      }
+    }, {
+      "uid" : "3dc6b0757142",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1571396571329,
+        "stop" : 1571396571331,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2fa62044d030e02.json",
+  "parameterValues" : [ "chrome" ]
+}

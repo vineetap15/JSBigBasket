@@ -1,0 +1,49 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1571408299348' stop='1571408325106'>
+    <name>Verify the payment success: </name>
+    <title>Verify the payment success: </title>
+    <test-cases>
+        <test-case start='1571408299351' status='passed' stop='1571408306092'>
+            <name>Given User selects a category</name>
+            <title>Given User selects a category</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1571408306092' status='passed' stop='1571408324979'>
+            <name>When User adds  the product in his basket</name>
+            <title>When User adds  the product in his basket</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1571408324979' status='passed' stop='1571408325102'>
+            <name>Then user should be able to complete the payment</name>
+            <title>Then user should be able to complete the payment</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,58 @@
+{
+  "uid" : "b047c15c4cf2851b",
+  "name" : "Then User should view all the main categories",
+  "fullName" : "Verify the presence of Menus and corresponding sub-Menus in the home page: .Then User should view all the main categories",
+  "historyId" : "5fc4b493e67103c51e6a2f926b7db14c",
+  "time" : {
+    "start" : 1571404426641,
+    "stop" : 1571404426986,
+    "duration" : 345
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "mainCategoryList[i].then is not a function",
+  "statusTrace" : "TypeError: mainCategoryList[i].then is not a function\n                    at World.<anonymous> (/home/vinita/Documents/Automation/jsbigbasket/features/steps/validateCategory.js:42:29)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the presence of Menus and corresponding sub-Menus in the home page: "
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the presence of Menus and corresponding sub-Menus in the home page: "
+  }, {
+    "name" : "testMethod",
+    "value" : "Then User should view all the main categories"
+  }, {
+    "name" : "package",
+    "value" : "Verify the presence of Menus and corresponding sub-Menus in the home page: "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b047c15c4cf2851b.json",
+  "parameterValues" : [ "chrome" ]
+}

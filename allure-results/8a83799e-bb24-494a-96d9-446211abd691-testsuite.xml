@@ -1,0 +1,56 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1571419970928' stop='1571420004152'>
+    <name>Verify the payment success: </name>
+    <title>Verify the payment success: </title>
+    <test-cases>
+        <test-case start='1571419970931' status='passed' stop='1571419977756'>
+            <name>Given User selects a category</name>
+            <title>Given User selects a category</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1571419977756' status='broken' stop='1571420004138'>
+            <name>When User adds  the product in his basket</name>
+            <title>When User adds  the product in his basket</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Can't call getText on element with selector "#price tr:nth-child(1)  td.IyLvo" because element wasn't found</message>
+                <stack-trace>Error: Can't call getText on element with selector "#price tr:nth-child(1)  td.IyLvo" because element wasn't found
+                    at World.&lt;anonymous> (/home/vinita/Documents/Automation/jsbigbasket/features/steps/ValidatePayments.js:33:35)
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+                    at async World.testFrameworkFnWrapper (/home/vinita/Documents/Automation/jsbigbasket/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:59:14)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1571420004139' status='pending' stop='1571420004142'>
+            <name>Then user should be able to complete the payment</name>
+            <title>Then user should be able to complete the payment</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

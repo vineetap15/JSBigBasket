@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Can't call getText on element with selector \"#price tr:nth-child(1)  td.IyLvo\" because element wasn't found",
+      "children" : [ {
+        "name" : "When User adds  the product in his basket",
+        "uid" : "75feaafdff34b176",
+        "parentUid" : "6ca8e7902153a906eb038d8929e135e6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1571419977756,
+          "stop" : 1571420004138,
+          "duration" : 26382
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "6ca8e7902153a906eb038d8929e135e6"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

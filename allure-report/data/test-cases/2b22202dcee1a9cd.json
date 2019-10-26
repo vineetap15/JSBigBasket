@@ -1,0 +1,56 @@
+{
+  "uid" : "2b22202dcee1a9cd",
+  "name" : "When User adds  the product in his basket",
+  "fullName" : "Verify the payment success: .When User adds  the product in his basket",
+  "historyId" : "5d5f1d7482d110d3d92dfa22dd50684d",
+  "time" : {
+    "start" : 1571408306092,
+    "stop" : 1571408324979,
+    "duration" : 18887
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the payment success: "
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the payment success: "
+  }, {
+    "name" : "testMethod",
+    "value" : "When User adds  the product in his basket"
+  }, {
+    "name" : "package",
+    "value" : "Verify the payment success: "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b22202dcee1a9cd.json",
+  "parameterValues" : [ "chrome" ]
+}

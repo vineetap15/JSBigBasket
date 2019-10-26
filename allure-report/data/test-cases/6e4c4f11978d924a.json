@@ -1,0 +1,56 @@
+{
+  "uid" : "6e4c4f11978d924a",
+  "name" : "When User clicks on shop option",
+  "fullName" : "Verify the presence of Menus and corresponding sub-Menus in the home page: .When User clicks on shop option",
+  "historyId" : "2ad548d5eda719b6f77dd449a35c36e7",
+  "time" : {
+    "start" : 1571405396287,
+    "stop" : 1571405404555,
+    "duration" : 8268
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the presence of Menus and corresponding sub-Menus in the home page: "
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the presence of Menus and corresponding sub-Menus in the home page: "
+  }, {
+    "name" : "testMethod",
+    "value" : "When User clicks on shop option"
+  }, {
+    "name" : "package",
+    "value" : "Verify the presence of Menus and corresponding sub-Menus in the home page: "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6e4c4f11978d924a.json",
+  "parameterValues" : [ "chrome" ]
+}

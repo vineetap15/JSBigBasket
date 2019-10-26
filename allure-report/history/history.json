@@ -1,0 +1,98 @@
+{
+  "9e07b052ae301fd85d5f0aee604cfee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a7ff4438279a91dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571419970931,
+        "stop" : 1571419977756,
+        "duration" : 6825
+      }
+    } ]
+  },
+  "5fc4b493e67103c51e6a2f926b7db14c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d00c316a533def6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1572072069519,
+        "stop" : 1572072069862,
+        "duration" : 343
+      }
+    } ]
+  },
+  "5d5f1d7482d110d3d92dfa22dd50684d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "75feaafdff34b176",
+      "status" : "broken",
+      "statusDetails" : "Can't call getText on element with selector \"#price tr:nth-child(1)  td.IyLvo\" because element wasn't found",
+      "time" : {
+        "start" : 1571419977756,
+        "stop" : 1571420004138,
+        "duration" : 26382
+      }
+    } ]
+  },
+  "2e04a5fe06856889bc43c7b897e9c20f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a2fa62044d030e02",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1571420004139,
+        "stop" : 1571420004142,
+        "duration" : 3
+      }
+    } ]
+  },
+  "2ad548d5eda719b6f77dd449a35c36e7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f4b6b0b259ad94a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1572072059163,
+        "stop" : 1572072069518,
+        "duration" : 10355
+      }
+    } ]
+  }
+}

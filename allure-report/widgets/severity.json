@@ -1,0 +1,51 @@
+[ {
+  "uid" : "a7ff4438279a91dc",
+  "name" : "Given User selects a category",
+  "time" : {
+    "start" : 1571419970931,
+    "stop" : 1571419977756,
+    "duration" : 6825
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2fa62044d030e02",
+  "name" : "Then user should be able to complete the payment",
+  "time" : {
+    "start" : 1571420004139,
+    "stop" : 1571420004142,
+    "duration" : 3
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "75feaafdff34b176",
+  "name" : "When User adds  the product in his basket",
+  "time" : {
+    "start" : 1571419977756,
+    "stop" : 1571420004138,
+    "duration" : 26382
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8d00c316a533def6",
+  "name" : "Then User should view all the main categories",
+  "time" : {
+    "start" : 1572072069519,
+    "stop" : 1572072069862,
+    "duration" : 343
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f4b6b0b259ad94a",
+  "name" : "When User clicks on shop option",
+  "time" : {
+    "start" : 1572072059163,
+    "stop" : 1572072069518,
+    "duration" : 10355
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

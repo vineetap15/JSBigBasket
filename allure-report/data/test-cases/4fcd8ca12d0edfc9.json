@@ -1,0 +1,58 @@
+{
+  "uid" : "4fcd8ca12d0edfc9",
+  "name" : "When User adds  the product in his basket",
+  "fullName" : "Verify the payment success: .When User adds  the product in his basket",
+  "historyId" : "5d5f1d7482d110d3d92dfa22dd50684d",
+  "time" : {
+    "start" : 1571396543107,
+    "stop" : 1571396571328,
+    "duration" : 28221
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call getText on element with selector \"#price tr:nth-child(2)  td.IyLvo\" because element wasn't found",
+  "statusTrace" : "Error: Can't call getText on element with selector \"#price tr:nth-child(2)  td.IyLvo\" because element wasn't found\n                    at World.<anonymous> (/home/vinita/Documents/Automation/jsbigbasket/features/steps/ValidatePayments.js:33:35)\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)\n                    at async World.testFrameworkFnWrapper (/home/vinita/Documents/Automation/jsbigbasket/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:59:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the payment success: "
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the payment success: "
+  }, {
+    "name" : "testMethod",
+    "value" : "When User adds  the product in his basket"
+  }, {
+    "name" : "package",
+    "value" : "Verify the payment success: "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4fcd8ca12d0edfc9.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,56 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1571419803097' stop='1571419830596'>
+    <name>Verify the payment success: </name>
+    <title>Verify the payment success: </title>
+    <test-cases>
+        <test-case start='1571419803103' status='passed' stop='1571419812244'>
+            <name>Given User selects a category</name>
+            <title>Given User selects a category</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1571419812245' status='passed' stop='1571419830534'>
+            <name>When User adds  the product in his basket</name>
+            <title>When User adds  the product in his basket</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1571419830536' status='broken' stop='1571419830594'>
+            <name>Then user should be able to complete the payment</name>
+            <title>Then user should be able to complete the payment</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>myBasket is not defined</message>
+                <stack-trace>ReferenceError: myBasket is not defined
+                    at World.&lt;anonymous> (/home/vinita/Documents/Automation/jsbigbasket/features/steps/ValidatePayments.js:59:5)
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+                    at async World.testFrameworkFnWrapper (/home/vinita/Documents/Automation/jsbigbasket/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:59:14)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

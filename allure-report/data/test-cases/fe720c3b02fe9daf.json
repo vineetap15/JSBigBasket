@@ -1,0 +1,56 @@
+{
+  "uid" : "fe720c3b02fe9daf",
+  "name" : "Given User selects a category",
+  "fullName" : "Verify the payment success: .Given User selects a category",
+  "historyId" : "9e07b052ae301fd85d5f0aee604cfee",
+  "time" : {
+    "start" : 1571419909488,
+    "stop" : 1571419916258,
+    "duration" : 6770
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the payment success: "
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the payment success: "
+  }, {
+    "name" : "testMethod",
+    "value" : "Given User selects a category"
+  }, {
+    "name" : "package",
+    "value" : "Verify the payment success: "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe720c3b02fe9daf.json",
+  "parameterValues" : [ "chrome" ]
+}
